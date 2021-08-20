@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+      "baseUrl": ".",
+      "target": "es6",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "module": "esnext",
+      "moduleResolution": "node",
+      "jsx": "react",
+      "allowJs": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "noFallthroughCasesInSwitch": true,
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "noImplicitThis": true,
+      
+      "types": [],
+      "paths": {
+          "@mui-custom": ["./src/mui-custom"],
+          "@mui-custom/*": ["./src/mui-custom/*"]
+      }
+  },
+  "include": ["src/**/*", "node-utility-scripts/**/*"],
+  "exclude": ["node_modules"]
+}
