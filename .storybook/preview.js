@@ -2,8 +2,6 @@ import React from 'react';
 
 import { MuiCustomThemeProvider } from '../src/mui-custom/ThemeProvider';
 
-import '../src/scss/styles.scss';
-
 export const parameters = {
     actions: { argTypesRegex: '^on[A-Z].*' },
     controls: {
