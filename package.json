@@ -11,7 +11,7 @@
     "svg-images-util": "node node-utility-scripts/svg-images-util --pathname src/assets/svg-icons/feather",
     "chromatic": "npx chromatic --project-token=86e9e2495300"
   },
-  "author": "Podoprigora Alexandr",
+  "author": "Daniel  Vianna",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.4.0",
