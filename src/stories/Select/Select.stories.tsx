@@ -30,10 +30,10 @@ export default {
 // Labels Select
 
 const labelsData: { id: number; name: string; color?: string; group?: string }[] = [
-    { id: 1, name: 'Important', color: '#36B4C4', group: 'Default' },
-    { id: 2, name: 'Delivery', color: '#AD57A0', group: 'Default' },
-    { id: 3, name: 'Sales', color: '#FFB800', group: 'Default' },
-    { id: 4, name: 'Finance', color: '#00AC26', group: 'Default' },
+    { id: 1, name: 'Important', color: '#BF260E', group: 'Default' },
+    { id: 2, name: 'Delivery', color: '#FFA720', group: 'Default' },
+    { id: 3, name: 'Sales', color: '#107145', group: 'Default' },
+    { id: 4, name: 'Finance', color: '#0048E3', group: 'Default' },
     { id: 5, name: 'Custom 1', group: 'Custom' },
     { id: 6, name: 'Custom 2', group: 'Custom' },
     { id: 7, name: 'Custom 3 some long long text', group: 'Custom' },

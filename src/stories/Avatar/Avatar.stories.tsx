@@ -24,7 +24,7 @@ Default.args = {
 export const Examples = () => {
     return (
         <Stack direction="row" spacing={2}>
-            <Avatar>A</Avatar>
+            <Avatar>JO</Avatar>
             <Avatar variant="rounded">
                 <Icon fontSize="large">
                     <FolderSvg />

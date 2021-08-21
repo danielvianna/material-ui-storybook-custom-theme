@@ -34,7 +34,7 @@ import {
     MuiCustomLinkedListLink
 } from '@mui-custom';
 
-import UserpicImg from '../assets/images/userpic.jpg';
+import UserpicImg from '../assets/images/jamesoliver.png';
 
 export type ListProps = MuiListProps;
 
@@ -54,8 +54,8 @@ export const FacebookSettingLinkedList = () => {
                     </ListItemAvatar>
                     <ListItemText
                         disableTypography={false}
-                        primary="Podoprigora Alexandr"
-                        secondary="podoprigoraisv@gmail.com"
+                        primary="James Oliver"
+                        secondary="jamesoliver@cleveland.io"
                         className="u-text-truncate"
                     />
                 </ListItemButton>
