@@ -84,35 +84,7 @@ module.exports = (_, config) => {
                         }
                     ]
                 },
-                {
-                    test: /\.(css|scss)$/,
-                    use: [
-                        {
-                            loader: MiniCssExtractPlugin.loader
-                        },
-                        {
-                            loader: 'css-loader',
-                            options: {
-                                sourceMap: true
-                            }
-                        },
-                        {
-                            loader: 'postcss-loader',
-                            options: {
-                                sourceMap: true
-                            }
-                        },
-                        {
-                            loader: 'resolve-url-loader'
-                        },
-                        {
-                            loader: 'sass-loader',
-                            options: {
-                                sourceMap: true
-                            }
-                        }
-                    ]
-                },
+
                 {
                     test: /\.(jpe?g|png)$/i,
                     type: 'asset/resource'
