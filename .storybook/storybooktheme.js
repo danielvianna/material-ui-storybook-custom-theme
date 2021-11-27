@@ -20,8 +20,8 @@ export default create({
 
   // Text colors
   textColor: 'black',
-  textInverseColor: 'rgba(255,255,255,0.9)',
-  textMutedColor: 'black',
+//   textInverseColor: 'white',
+//   textMutedColor: 'black',
 
   // Toolbar default and active colors
   barTextColor: 'black',
