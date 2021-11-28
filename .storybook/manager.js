@@ -5,7 +5,6 @@ import storybooktheme from './storybooktheme';
 
 addons.setConfig({
   theme: storybooktheme,
-//   panelPosition: right,
   sidebar: {
     showRoots: false,
     collapsedRoots: ['other'],

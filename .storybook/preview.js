@@ -1,3 +1,5 @@
+import { addParameters } from '@storybook/react'
+
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   layout: 'centered',
@@ -11,3 +13,8 @@ export const parameters = {
     },
   },
 }
+
+addParameters({
+  viewMode: 'story',
+  docs: { page: null },
+})

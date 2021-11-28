@@ -1,7 +1,11 @@
-mpm install
+npm install
 
 npm run storybook
+npm run storybook dev
+npm run storybook
 
+
+##
 Further investigation - mobile emulator:
 https://github.com/storybookjs/native
 https://appetize.io/
