@@ -1,12 +1,10 @@
 // Button.stories.ts|tsx
 
 import React from 'react';
-
 import { ComponentMeta } from '@storybook/react';
-
 import { Button } from './Button';
-
 import { withDesign } from 'storybook-addon-designs'
+import { ComponentStory} from '@storybook/react';
 
 export default {
 
