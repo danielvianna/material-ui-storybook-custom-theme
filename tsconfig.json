@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+      "noImplicitAny": true,
       "target": "es5",
       "outDir": "lib",
       "lib": [
@@ -21,10 +22,9 @@
       "isolatedModules": true,
       "noEmit": true,
       "jsx": "react",
-      "rootDir": "./src",
     },
     "include": [
-      "./src/"
+      "src/"
     ],
     "exclude": [
         "node_modules",

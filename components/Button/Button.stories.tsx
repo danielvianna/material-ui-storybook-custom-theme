@@ -18,13 +18,6 @@ export default {
       url:
         'https://www.figma.com/file/Klm6pxIZSaJFiOMX5FpTul9F/storybook-addon-designs-sample',
     },
-    backgrounds: {
-      values: [
-        { name: 'red', value: '#f00' },
-        { name: 'green', value: '#0f0' },
-        { name: 'blue', value: '#00f' },
-      ],
-    },
   },
 } as ComponentMeta<typeof Button>;
 
