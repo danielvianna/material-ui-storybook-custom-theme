@@ -1,12 +1,20 @@
 npm install
 
+To Run Storybook
 npm run storybook
 npm run storybook dev
 npm run storybook
 
+To Generate Tokens:
+npx style-dictionary build
+
 
 ##
-Further investigation - mobile emulator:
+
+TODO:
+cleanup repository and organize
+
+Further investigation - embed mobile emulator:
 https://github.com/storybookjs/native
 https://appetize.io/
 
