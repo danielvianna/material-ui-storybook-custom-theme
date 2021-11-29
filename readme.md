@@ -40,6 +40,8 @@ cleanup repository and organize in packages
 
 connect figma
 
+migrate tooling to Gitlab
+
 embed web components, html
 
 Further investigation - embed mobile emulator:
