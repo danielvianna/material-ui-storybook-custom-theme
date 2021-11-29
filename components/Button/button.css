@@ -1,17 +1,16 @@
 .storybook-button {
-  font-family: Arial, sans-serif;
-  border: 0;
-  border-radius: 3em;
-  cursor: pointer;
-  display: inline-block;
-  line-height: 1;
+	font-family: Arial, sans-serif;
+	border: 0;
+	border-radius: 3em;
+	cursor: pointer;
+	display: inline-block;
+	line-height: 1;
 }
 .storybook-button--primary {
-  color: white;
-  background-color: #1ea7fd;
+	color: white;
+	background-color: #1ea7fd;
 }
-
 .storybook-button--small {
-  font-size: 1rem;
-  padding: 0.5rem 1rem;
+	font-size: 1rem;
+	padding: 0.5rem 1rem;
 }
