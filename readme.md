@@ -12,7 +12,7 @@ npm run storybook
 
 npm run storybook dev (with dev dependencies)
 
-npm run storybook build (to check for build tokens)
+npm run storybook build (when changes are not applied you might need to run a build)
 
 
 ### Amazon Style Dictionary ###
@@ -25,7 +25,9 @@ The final output is now SAAS for Web so I'm still trying to figure out how to co
 ##
 
 ## TODO ##
+resolve typescript config for visual studio
 cleanup repository and organize in packages
+connect figma
 
 Further investigation - embed mobile emulator:
 
