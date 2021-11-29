@@ -16,8 +16,11 @@ npm run storybook build (when changes are not applied you might need to run a bu
 
 
 ### Amazon Style Dictionary ###
-To Generate Tokens:
+To Generate Tokens
+
 npx style-dictionary build
+folder is 
+
 Note: it's not generating CSS VARS yet (not sure yet how to do it yet but it seems supported)
 The final output is now SAAS for Web so I'm still trying to figure out how to connect storybook button component with the generated SASS file
 
