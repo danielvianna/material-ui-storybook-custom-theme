@@ -38,7 +38,7 @@ resolve typescript config for visual studio
 
 cleanup repository and organize in packages
 
-connect figma
+connect figma tokens to repository
 
 migrate tooling to Gitlab
 
