@@ -15,11 +15,11 @@
     },
     "android": {
       "transformGroup": "android",
-      "buildPath": "../android/style-dictionary-build/android/",
+      "buildPath": "../android/style-dictionary-build/",
       "files": [
         {
           "destination": "font_dimens.xml",
-          "format": "style-dictionary-build/fontDimens"
+          "format": "android/fontDimens"
         },
         {
           "destination": "colors.xml",
@@ -29,7 +29,7 @@
     },
     "ios-swift": {
       "transformGroup": "ios-swift",
-      "buildPath": "../android/style-dictionary-build/ios-swift/",
+      "buildPath": "../ios-swift/style-dictionary-build/",
       "files": [
         {
           "destination": "StyleDictionary.swift",
