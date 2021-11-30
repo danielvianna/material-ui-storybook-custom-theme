@@ -5,7 +5,7 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
-      "buildPath": "../react/style-dictionary-build/css/",
+      "buildPath": "../react/xxx/css/",
       "files": [
         {
           "destination": "_variables.css",
