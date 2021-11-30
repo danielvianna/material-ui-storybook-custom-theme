@@ -1,8 +1,4 @@
-/* :root {
-  --color-core-magenta-900: #6c2277;
-} */
-
-/* @import "style-dictionary/build/css/_variables.css"; */
+@import "../../css/variables.css";
 
 
 
@@ -16,7 +12,7 @@
 }
 .storybook-button--primary {
   color: white;
-  background-color: var(--color-core-green-700);
+  background-color: var(--blanka);
 }
 
 .storybook-button--small {
