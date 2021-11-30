@@ -5,10 +5,10 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
-      "buildPath": "../react/xxx/css/",
+      "buildPath": "../react1/xxx/css/",
       "files": [
         {
-          "destination": "_variables.css",
+          "destination": "variables.css",
           "format": "css/variables"
         }
       ]
