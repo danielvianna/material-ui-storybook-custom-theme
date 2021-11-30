@@ -1,3 +1,6 @@
 
 storybook-react/node_modules/
-amazon-style-dictionary/node_modules/.package-lock.json
+amazon-style-dictionary/node_modules
+react/node_modules/.cache/
+*node_modules/*
+**/node_modules
