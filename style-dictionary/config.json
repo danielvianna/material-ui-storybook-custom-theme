@@ -5,7 +5,7 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
-      "buildPath": "build/css/",
+      "buildPath": "../react/style-dictionary-build/css/",
       "files": [
         {
           "destination": "_variables.css",
@@ -15,11 +15,11 @@
     },
     "android": {
       "transformGroup": "android",
-      "buildPath": "build/android/",
+      "buildPath": "../android/style-dictionary-build/android/",
       "files": [
         {
           "destination": "font_dimens.xml",
-          "format": "android/fontDimens"
+          "format": "style-dictionary-build/fontDimens"
         },
         {
           "destination": "colors.xml",
@@ -29,7 +29,7 @@
     },
     "ios-swift": {
       "transformGroup": "ios-swift",
-      "buildPath": "build/ios-swift/",
+      "buildPath": "../android/style-dictionary-build/ios-swift/",
       "files": [
         {
           "destination": "StyleDictionary.swift",

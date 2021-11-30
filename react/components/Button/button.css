@@ -1,3 +1,6 @@
+
+
+
 .storybook-button {
   font-family: Arial, sans-serif;
   border: 0;
@@ -8,7 +11,7 @@
 }
 .storybook-button--primary {
   color: white;
-  background-color: #1ea7fd;
+  background-color: var(--color-core-green-700);
 }
 
 .storybook-button--small {

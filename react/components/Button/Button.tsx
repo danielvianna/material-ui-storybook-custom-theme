@@ -1,5 +1,6 @@
 import React from 'react';
 import './button.css';
+import '/Users/danielvianna/Desktop/material-ui-storybook-custom-theme/style-dictionary/build/css/_variables.css';
 
 interface ButtonProps {
   /**
