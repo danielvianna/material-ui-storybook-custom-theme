@@ -52,7 +52,7 @@ check the folder "components". Requires a story file + the component itself
 ## Installing
 
 ```
-cd style dictionary
+cd style-dictionary
 npm install
 ```
 
@@ -67,7 +67,15 @@ Reads: tokens\tokens.json
 
 Outputs: build\
 
+1. scss
+2. android xml
+3. ioS swift
+
+Config file: config.json
+
+
 Note: it's not generating CSS VARS yet
+https://dbanks.design/blog/dark-mode-with-style-dictionary/
 
 <br>
 
